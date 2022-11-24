@@ -3,8 +3,8 @@
 ```
 Electonics Accessories App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](<Add Frontend Link here>) here!!
-Check out [API LIVE DEMO](<Add Backend Link here>) here!!
+Check out [FRONTEND LIVE DEMO](https://gd-frontend1.krishnashankar3.repl.co) here!!
+Check out [API LIVE DEMO](https://gd-backend1.krishnashankar3.repl.co) here!!
 
 ## Tech used
 
